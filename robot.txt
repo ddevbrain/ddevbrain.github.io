@@ -1,0 +1,512 @@
+	
+	<!-- SLIDER Start
+    ================================================== -->
+	<section id="slider-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div id="slider" class="nivoSlider">
+				    	<img src="img/products/caldo_de_gallina.jpg" alt="" />
+				    	<img src="img/products/frejolada_de_pato.jpg" alt=""/>
+				    	<img src="img/products/arroz_verde.jpg" alt="" />
+					</div>	<!-- End of /.nivoslider -->
+				</div>	<!-- End of /.col-md-12 -->
+			</div>	<!-- End of /.row -->
+		</div>	<!-- End of /.container -->
+	</section> <!-- End of Section -->
+
+
+CAJA PARA ENVÍO
+					<div class="leave-comment">
+						<h5>LEAVE A COMMENT</h5>
+						<form class="form-horizontal" role="form">
+							<div class="form-group">
+						    	<label for="inputname" class="col-sm-2 control-label">Name</label>
+							    <div class="col-sm-10">
+							      	<input type="text" class="form-control" id="inputname" placeholder="Name">
+							    </div>
+						  	</div>	<!-- End of /.form-group -->
+						  	<div class="form-group">
+						    	<label for="inputEmail" class="col-sm-2 control-label">Email</label>
+							    <div class="col-sm-10">
+							      	<input type="email" class="form-control" id="inputEmail" placeholder="Email">
+							    </div>
+						  	</div>	<!-- End of /.form-group -->
+						  	<div class="form-group">
+						    	<label for="inputwebsite" class="col-sm-2 control-label">Website</label>
+							    <div class="col-sm-10">
+							      	<input type="text" class="form-control" id="inputwebsite" placeholder="Website">
+							    </div>
+						  	</div>	<!-- End of /.form-group -->
+						  	<div class="form-group">
+						    	<label for="inputmessage" class="col-sm-2 control-label">Message</label>
+							    <div class="col-sm-10">
+							      	<textarea class="form-control" id="inputmessage"  rows="3"></textarea>
+							    </div>
+						  	</div>	<!-- End of /.form-group -->
+						  		
+							<div class="form-group">
+						    	<div class="col-sm-offset-2 col-sm-10">
+						      		<button type="submit" class="btn btn-primary">Send</button>
+						    	</div>
+						  	</div>	<!-- End of /.form-group -->
+						</form>	<!-- End of /.form-horizontal -->
+					</div>	<!-- End of /.leave comments -->
+
+
+
+
+/*************************            nutrición          ********************************/
+
+
+<div class="block">
+							<h4>Latest Food Items</h4>
+							<ul class="media-list">
+							 	<li class="media">
+							    	<a class="pull-left" href="#">
+							      		<img class="media-object" src="images/post-img.png" alt="...">
+							    	</a>
+							    	<div class="media-body">
+							      		<a href="" class="media-heading">Lamb leg roast
+							      		<p>Lorem ipsum dolor sit amet.</p></a>
+							    	</div>
+							  	</li>
+							  	<li class="media">
+							    	<a class="pull-left" href="#">
+							      		<img class="media-object" src="images/post-img-2.png" alt="...">
+							    	</a>
+							    	<div class="media-body">
+							      		<a href="" class="media-heading"> Lamingtons
+							      		<p>Lorem ipsum dolor.</p></a>
+							    	</div>
+							  	</li>
+							  	<li class="media">
+							    	<a class="pull-left" href="#">
+							      		<img class="media-object" src="images/post-img-3.png" alt="...">
+							    	</a>
+							    	<div class="media-body">
+							      		<a href="" class="media-heading">
+							      		Anzac Salad
+							      		<p>Lorem ipsum dolor sit.</p>
+
+							      		</a>
+							    	</div>
+							  	</li>
+							  </ul>
+						</div>
+
+
+
+##################################################################################################3333333
+ 						COMENTARIO - DESAYUNO
+ 						<div class="block">
+						            		<i class="fa fa-comments"></i>
+						            		<p>3 Comments</p>
+						            	</div>
+<!-- Sound Cloud -->
+					        <div class="blog-box">
+					        	<iframe src="https://w.soundcloud.com/player/?url=https://soundcloud.com/haloproject/halo-scenes-from-the-four" frameborder="0" allowfullscreen="" width="100%" height="166"></iframe>
+					            
+					            <div class="blog-post-body clearfix">
+					            	<a href="blog-single.html">
+					            		<h2>Aduio Post Type Example</h2>
+					            	</a>
+					            	<div class="blog-post-tag">
+						            	<div class="block">
+						            		<i class="fa fa-clock-o"></i>
+						            		<p>12 Jan,2014</p>
+						            	</div>
+						            	<div class="block">
+						            		<i class="fa fa-user"></i>
+						            		<p>Admin</p>
+						            	</div>
+						            	<div class="block">
+						            		<i class="fa fa-tags"></i>
+						            		<p>
+						            			<a href="">Food Culture</a>,
+						            			<a href="">Green Items</a>
+						            		</p>
+						            	</div>
+						            	<div class="block">
+						            		<i class="fa fa-comments"></i>
+						            		<p>3 Comments</p>
+						            	</div>
+						            </div>
+						            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nostrum inventore debitis accusantium natus praesentium enim sequi culpa provident dignissimos veniam deserunt voluptatibus fugit delectus pariatur numquam optio quidem illo. Obcaecati, placeat, enim accusantium sunt inventore sed dolorum molestiae ab consequuntur voluptatem dolor necessitatibus reprehenderit adipisci explicabo hic quibusdam pariatur!</p>
+						            <a href="blog-single.html" class="btn btn-default btn-transparent pull-right" role="button">
+								        <span>Read More</span>
+								    </a>
+					            </div>
+					        </div>
+
+
+
+						<div class="block">
+							<h4>Popular Posts</h4>
+							<ul class="media-list">
+							 	<li class="media">
+							    	<a class="pull-left" href="#">
+							      		<img class="media-object" src="images/post-img.png" alt="...">
+							    	</a>
+							    	<div class="media-body">
+							      		<a href="" class="media-heading">
+							      			Lorem ipsum dolor</a>
+							    	  	<p>January 10,2014</p>
+							    	</div>
+							  	</li>	<!-- End of /.media -->
+							  	<li class="media">
+							    	<a class="pull-left" href="#">
+							      		<img class="media-object" src="images/post-img-2.png" alt="...">
+							    	</a>
+							    	<div class="media-body">
+							      		<a href="" class="media-heading">
+							      			Mauris blandit aliquet</a>
+							    	  	<p>January 10,2014</p>
+							    	</div>
+							  	</li>	<!-- End of /.media -->
+							  	<li class="media">
+							    	<a class="pull-left" href="#">
+							      		<img class="media-object" src="images/post-img-3.png" alt="...">
+							    	</a>
+							    	<div class="media-body">
+							      		<a href="" class="media-heading">
+							      			Quisque velit nisi</a>
+							    	  	<p>January 10,2014</p>
+							    	</div>
+							  	</li>	<!-- End of /.media -->
+							</ul>	<!-- End of /.media-list -->
+						</div>	<!-- End of /.block -->
+  
+
+
+  #########################################################################################################################3
+
+  					        <div class="blog-icon">
+					        	<i class="fa  fa-video-camera"></i>
+					        </div>
+
+
+##############################################################################################################################
+
+<p class="price">$380</p>
+
+####################################################################
+
+
+
+
+
+
+
+
+
+<div class="row">
+				<div class="col-md-9">
+					<!-- Nav tabs -->
+					<ul class="nav nav-tabs">
+						<li class="active"><a href="#home" data-toggle="tab">More Info</a></li>
+						<li><a href="#profile" data-toggle="tab">Comments</a></li>
+					</ul>
+
+					<!-- Tab panes -->
+					<div class="tab-content">
+						<div class="tab-pane active" id="home">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus eligendi quidem vel sit expedita nam sint non explicabo magni totam?</p>
+						</div>
+						<div class="tab-pane" id="profile">
+							<p>No customer comments for the moment.</p>
+						</div>
+					</div>
+				</div>	<!-- End of /.col-md-9 -->
+				<div class="col-md-3">
+					<div class="blog-sidebar">
+						<div class="block">
+							<img src="images/food-ad.png" alt="">
+						</div> <!-- End of /.block -->
+					</div>	<!-- End of /.blog-sidebar -->
+				</div>	<!-- End of /.col-md-3 -->
+			</div>	<!-- End of /.row -->
+
+
+
+
+
+
+
+
+
+
+#########################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						NUTRICIÓN
+
+
+
+
+
+
+
+
+
+
+
+
+
+						<section id="shop">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-9">
+					<div class="products-heading">
+						<h2>VALOR NUTRICIONAL DE LOS ALIMENTOS - BENEFICIOS</h2>
+					</div>	<!-- End of /.Products-heading -->
+					<div class="product-grid">
+					    <ul>
+					        <li>
+					            <div class="products">
+									<a href="#">
+										<img src="images/product-image-8.jpg" alt="">
+									</a>
+									<a href="#">
+										<h4>Ensalada</h4>
+										<p style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nostrum inventore debitis accusantium natus praesentium enim sequi culpa provident dignissimos veniam deserunt voluptatibus fugit delectus pariatur numquam optio quidem illo.</p>
+									</a>
+								</div>	<!-- End of /.products -->
+					        </li>
+					        <li>
+					            <div class="products">
+									<a href="#">
+										<img src="images/product-image-8.jpg" alt="">
+									</a>
+									<a href="#">
+										<h4>Ensalada</h4>
+										<p style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nostrum inventore debitis accusantium natus praesentium enim sequi culpa provident dignissimos veniam deserunt voluptatibus fugit delectus pariatur numquam optio quidem illo.</p>
+									</a>
+								</div>	<!-- End of /.products -->
+					        </li>
+					        <li>
+					            <div class="products">
+									<a href="#">
+										<img src="images/product-image-8.jpg" alt="">
+									</a>
+									<a href="#">
+										<h4>Ensalada</h4>
+										<p style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nostrum inventore debitis accusantium natus praesentium enim sequi culpa provident dignissimos veniam deserunt voluptatibus fugit delectus pariatur numquam optio quidem illo.</p>
+									</a>
+								</div>	<!-- End of /.products -->
+					        </li>
+					        <li>
+					            <div class="products">
+									<a href="#">
+										<img src="images/product-image-8.jpg" alt="">
+									</a>
+									<a href="#">
+										<h4>Ensalada</h4>
+										<p style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nostrum inventore debitis accusantium natus praesentium enim sequi culpa provident dignissimos veniam deserunt voluptatibus fugit delectus pariatur numquam optio quidem illo.</p>
+									</a>
+								</div>	<!-- End of /.products -->
+					        </li>
+					        <li>
+					            <div class="products">
+									<a href="#">
+										<img src="images/product-image-8.jpg" alt="">
+									</a>
+									<a href="#">
+										<h4>Ensalada</h4>
+										<p style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nostrum inventore debitis accusantium natus praesentium enim sequi culpa provident dignissimos veniam deserunt voluptatibus fugit delectus pariatur numquam optio quidem illo.</p>
+									</a>
+								</div>	<!-- End of /.products -->
+					        </li>
+					        <li>
+					           <div class="products">
+									<a href="#">
+										<img src="images/product-image-8.jpg" alt="">
+									</a>
+									<a href="#">
+										<h4>Ensalada</h4>
+										<p style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nostrum inventore debitis accusantium natus praesentium enim sequi culpa provident dignissimos veniam deserunt voluptatibus fugit delectus pariatur numquam optio quidem illo.</p>
+									</a>
+								</div>	<!-- End of /.products -->
+					        </li>
+					        <!--  ... -->
+					    </ul>
+					</div>	<!-- End of /.products-grid -->
+					<div class="product-grid">
+					    <ul>
+					        <li>
+					            <div class="products">
+									<a href="#">
+										<img src="images/product-image-8.jpg" alt="">
+									</a>
+									<a href="#">
+										<h4>Ensalada</h4>
+										<p style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nostrum inventore debitis accusantium natus praesentium enim sequi culpa provident dignissimos veniam deserunt voluptatibus fugit delectus pariatur numquam optio quidem illo.</p>
+									</a>
+								</div>	<!-- End of /.products -->
+					        </li>
+					        <li>
+					            <div class="products">
+									<a href="#">
+										<img src="images/product-image-8.jpg" alt="">
+									</a>
+									<a href="#">
+										<h4>Ensalada</h4>
+										<p style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nostrum inventore debitis accusantium natus praesentium enim sequi culpa provident dignissimos veniam deserunt voluptatibus fugit delectus pariatur numquam optio quidem illo.</p>
+									</a>
+								</div>	<!-- End of /.products -->
+					        </li>
+					        <li>
+					            <div class="products">
+									<a href="#">
+										<img src="images/product-image-8.jpg" alt="">
+									</a>
+									<a href="#">
+										<h4>Ensalada</h4>
+										<p style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nostrum inventore debitis accusantium natus praesentium enim sequi culpa provident dignissimos veniam deserunt voluptatibus fugit delectus pariatur numquam optio quidem illo.</p>
+									</a>
+								</div>	<!-- End of /.products -->
+					        </li>
+					        <li>
+					            <div class="products">
+									<a href="#">
+										<img src="images/product-image-8.jpg" alt="">
+									</a>
+									<a href="#">
+										<h4>Ensalada</h4>
+										<p style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nostrum inventore debitis accusantium natus praesentium enim sequi culpa provident dignissimos veniam deserunt voluptatibus fugit delectus pariatur numquam optio quidem illo.</p>
+									</a>
+								</div>	<!-- End of /.products -->
+					        </li>
+					        <li>
+					            <div class="products">
+									<a href="#">
+										<img src="images/product-image-8.jpg" alt="">
+									</a>
+									<a href="#">
+										<h4>Ensalada</h4>
+										<p style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nostrum inventore debitis accusantium natus praesentium enim sequi culpa provident dignissimos veniam deserunt voluptatibus fugit delectus pariatur numquam optio quidem illo.</p>
+									</a>
+								</div>	<!-- End of /.products -->
+					        </li>
+					        <li>
+					           <div class="products">
+									<a href="#">
+										<img src="images/product-image-8.jpg" alt="">
+									</a>
+									<a href="#">
+										<h4>Ensalada</h4>
+										<p style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nostrum inventore debitis accusantium natus praesentium enim sequi culpa provident dignissimos veniam deserunt voluptatibus fugit delectus pariatur numquam optio quidem illo.</p>
+									</a>
+								</div>	<!-- End of /.products -->
+					        </li>
+					        <!--  ... -->
+					    </ul>
+					</div>	<!-- End of /.products-grid -->
+					<!-- Pagination -->
+
+					<div class="pagination-bottom">
+						<ul class="pagination">
+						  	<li class="disabled"><a href="#">&laquo;</a></li>
+						  	<li class="active"><a href="#">1 <span class="sr-only"></span></a></li>
+						  	<li><a href="#">2</a></li>
+						  	<li><a href="#">3</a></li>
+						  	<li><a href="#">4</a></li>
+						  	<li><a href="#">»</a></li>
+						</ul>	<!-- End of /.pagination -->
+					</div>
+				</div>	<!-- End of /.col-md-9 -->
+				<div class="col-md-3">
+					<div class="blog-sidebar">
+						<div class="block">
+							<h4>Categorías</h4>
+							<div class="list-group">
+								<a href="#" class="list-group-item">
+									<i class="fa  fa-dot-circle-o"></i>
+									Dulce
+								</a>
+								<a href="#" class="list-group-item">
+									<i class="fa  fa-dot-circle-o"></i>
+									Salado
+								</a>
+								<a href="#" class="list-group-item">
+									<i class="fa  fa-dot-circle-o"></i>
+									Glucosa
+								</a>
+								<a href="#" class="list-group-item">
+									<i class="fa  fa-dot-circle-o"></i>
+									Diabetes
+								</a>
+								<a href="#" class="list-group-item">
+									<i class="fa  fa-dot-circle-o"></i>
+									Coresterol
+								</a>
+							</div>
+						</div>
+						<div class="block">
+							<img src="images/food-ad.png" alt="">
+						</div>
+
+						<div class="block">
+							<img src="images/food-ad.png" alt="">
+						</div>
+
+						<div class="block">
+							<img src="images/food-ad.png" alt="">
+						</div>
+						
+						<div class="block">
+							<img src="images/food-ad.png" alt="">
+						</div>
+
+						<div class="block">
+							<img src="images/food-ad.png" alt="">
+						</div>
+						
+						<div class="block">
+							<img src="images/food-ad.png" alt="">
+						</div>
+
+						<div class="block">
+							<h4>Tag de comida</h4>
+							<div class="tag-link">
+								<a href="desayuno.php">Desayuno</a>
+								<a href="almuerzo.php">Almuerzo</a>
+								<a href="cena.php">Cena</a>
+								<a href="catering.php">Catering</a>
+							</div>	
+						</div>
+				</div>	<!-- End of /.col-md-3 -->
+			
+			</div>	<!-- End of /.row -->
+		</div>	<!-- End of /.container -->
+	</section>	<!-- End of Section -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####################################################################################################3
